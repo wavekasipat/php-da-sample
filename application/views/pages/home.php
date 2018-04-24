@@ -28,7 +28,7 @@
             <img data-src="<?php echo base_url("assets/images/sb_4.jpg");?>" alt="900x500" src="<?php echo base_url("assets/images/banner-3.jpg");?>">
             <div class="carousel-caption">
                 <h3>Pro Skate Board Motion 10000b</h3>
-                <p> Do all your cool stuff on Contoso board Motion 10000b.</p>
+                <p> Do all your cool stuff on Contoso board Motion 10000c.</p>
             </div>
         </div>
     </div>
